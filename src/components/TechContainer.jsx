@@ -6,7 +6,7 @@ const technologies = [
   { id: "html", name: "HTML5", icon: <DiHtml5 />,desc:"Criação de paginas semânticas e estruturadas" },
   { id: "css", name: "CSS3", icon: <DiCss3 />,desc:"Estilização de paginas com layouts atrativos" },
   { id: "js", name: "JAVASCRIPT", icon: <DiJsBadge />,desc:"Criar dinamicidade em paginas e manipulação com DOM" },
-  { id: "node", name: "Node.js", icon: <DiNodejsSmall />,desc:"Criar sistemas funcionas e API, e usar frameworks como express" },
+  { id: "node", name: "Node.js", icon: <DiNodejsSmall />,desc:"Criar sistemas funcionais e API, e usar frameworks como express" },
   { id: "mysql", name: "MYSQL", icon: <DiMysql />,desc:"Trabalhar com bancos realicionais e estrutura MVC" },
   { id: "react", name: "React", icon: <DiReact />,desc:"Criar paginas dinâmicas" },
   { id: "mongo", name: "MongoDB", icon: <DiMongodb />,desc:"Trabalhar com banco de dados NoSQL principalmente atraves do mongoose" },
